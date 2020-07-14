@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="123.74579mm"
-   height="41.404881mm"
-   viewBox="0 0 123.74579 41.40488"
+   width="123.78855mm"
+   height="30.623228mm"
+   viewBox="0 0 123.78855 30.623228"
    version="1.1"
    id="svg2273"
    inkscape:version="0.92.5 (0.92.5+68)"
@@ -20,15 +20,15 @@
      id="defs2267">
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath2933">
+       id="clipPath2961">
       <rect
-         clip-path="none"
-         y="-153.24643"
-         x="736.75415"
-         height="156.49089"
-         width="467.70062"
-         id="rect2935"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.15563858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99402368;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect2963"
+         width="467.86224"
+         height="115.74133"
+         x="736.67334"
+         y="-153.32722"
+         clip-path="none" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -39,14 +39,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="208.81024"
-     inkscape:cy="-17.450238"
+     inkscape:cx="185.55197"
+     inkscape:cy="-60.08475"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1687"
      inkscape:window-height="1385"
-     inkscape:window-x="1753"
+     inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
      fit-margin-top="0"
@@ -69,11 +69,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-50.689187,-109.24067)">
+     transform="translate(-50.667805,-109.21929)">
     <g
        id="g2208"
        transform="matrix(0.26458333,0,0,0.26458333,-144.24368,149.78712)"
-       clip-path="url(#clipPath2933)"
+       clip-path="url(#clipPath2961)"
        inkscape:export-filename="/home/lewis/banner.png"
        inkscape:export-xdpi="206.1086"
        inkscape:export-ydpi="206.1086">
@@ -91,5 +91,16 @@
          d="m 1211.6133,11.787824 c 0,23.6998 -320.78542,-5.2277004 -374.48492,-5.2277004 -31.2656,0 -106.93595,6.4447004 -132.82588,-4.1876 -18.57685,-7.629 -11.19459,-50.3512596 -11.1946,-60.2523336 0,-10.93582 33.06007,-32.405304 43.00613,-34.607414 4.58636,-1.01545 6.98045,-3.6949 17.20164,-0.68408 2.59897,0.76557 4.08659,2.48532 6.09794,3.61593 2.34725,1.31943 5.22244,2.02185 8.57211,2.30657 13.67295,1.16218 49.36446,6.79332 53.94916,6.18685 3.9969,0.37212 3.7635,-3.37268 6.4667,-2.87447 3.3625,0.61971 1.8911,3.78872 3.5306,3.90771 3.0976,0.0593 4.8735,1.26428 8.0699,-1.79255 2.3182,-2.21702 4.9329,2.38823 9.0035,2.99749 6.5036,0.9734 15.6223,3.072934 23.1934,2.894034 7.2721,-0.17184 13.0099,-2.629084 18.7166,-1.453684 7.667,1.579174 15.1597,3.813504 21.1079,6.205134 3.7563,1.51037 14.9944,-5.18793 17.5904,-3.09433 1.9841,1.60016 11.2881,-2.885294 13.6374,-1.09016 1.3896,1.06174 7.5841,-0.54178 10.8143,-1.02463 3.2273,-0.482424 4.5027,-2.409124 9.3677,-1.588744 9.8069,1.653734 31.2475,18.621864 42.15902,17.983824 3.4377,-0.20102 4.1799,-3.88298 8.4042,-3.70431 1.4589,0.0617 1.7585,1.29197 3.5704,1.38487 1.4543,0.0746 3.5923,-0.75065 5.2595,-0.7761 4.6545,-0.0711 4.6221,2.30644 7.4356,2.20162 6.2346,-0.23228 13.2206,-6.88996 20.9271,-8.01042 6.762,-0.98312 10.678,-7.603674 17.485,-9.746094 4.4648,-1.40525 6.5012,-5.38934 10.3808,-6.81507 2.8011,-1.02936 5.29,-6.69359 8.1771,-7.57725 4.7207,-1.44488 11.6421,-3.79816 15.7442,-5.09436 7.322,-2.313606 16.1441,-10.649316 23.8007,-10.067946 5.9245,0.44985 10.711,0.21817 14.773,-3.92404 2.8191,-2.87475 5.5131,-2.19322 7.1497,-2.03619 1.9408,0.18623 3.8807,-3.14686 6.5688,-2.55962 5.372,1.17356 12.9035,9.00125 19.1862,7.5273 1.1853,-0.27806 5.7611,-2.36469 6.7534,-3.36097 2.4982,-2.50827 6.0714,-5.65324 8.0595,-5.52378 2.1386,0.13925 4.3441,1.50899 7.1405,0.53071 1.7592,-0.61545 2.72,-3.06144 7.4498,-3.24205 20.4417,-0.78058 7.7555,132.373054 7.7555,132.573854 z"
          style="opacity:1;fill:#67a5e9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03187656px;line-height:1.25;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.22579691;stroke-opacity:1"
+       x="51.425518"
+       y="117.49184"
+       id="text2958"><tspan
+         sodipodi:role="line"
+         id="tspan2956"
+         x="51.425518"
+         y="117.49184"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.03181648px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.22579691;stroke-opacity:1">lrjball</tspan></text>
   </g>
 </svg>
