@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="123.74579mm"
-   height="31.003265mm"
-   viewBox="0 0 123.74579 31.003265"
+   height="41.404881mm"
+   viewBox="0 0 123.74579 41.40488"
    version="1.1"
    id="svg2273"
    inkscape:version="0.92.5 (0.92.5+68)"
@@ -20,15 +20,15 @@
      id="defs2267">
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath2873">
+       id="clipPath2933">
       <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect2875"
-         width="467.70062"
-         height="117.1777"
+         clip-path="none"
+         y="-153.24643"
          x="736.75415"
-         y="-113.93324"
-         clip-path="none" />
+         height="156.49089"
+         width="467.70062"
+         id="rect2935"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.15563858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -39,14 +39,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="178.06639"
-     inkscape:cy="-31.136771"
+     inkscape:cx="208.81024"
+     inkscape:cy="-17.450238"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1687"
      inkscape:window-height="1385"
-     inkscape:window-x="67"
+     inkscape:window-x="1753"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
      fit-margin-top="0"
@@ -69,11 +69,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-50.689187,-119.64228)">
+     transform="translate(-50.689187,-109.24067)">
     <g
        id="g2208"
        transform="matrix(0.26458333,0,0,0.26458333,-144.24368,149.78712)"
-       clip-path="url(#clipPath2873)"
+       clip-path="url(#clipPath2933)"
        inkscape:export-filename="/home/lewis/banner.png"
        inkscape:export-xdpi="206.1086"
        inkscape:export-ydpi="206.1086">
