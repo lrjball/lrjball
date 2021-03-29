@@ -2,3 +2,5 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrjball)](https://github.com/anuraghazra/github-readme-stats)
